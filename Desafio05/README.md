@@ -23,6 +23,4 @@ Para criar uma medida em DAX no Power BI, siga estas etapas:
 
 4. Pressione Enter para criar a medida. A nova medida agora aparecerá na tabela selecionada no painel "Fields".
 
-Lembre-se, DAX é uma linguagem poderosa e flexível que permite criar medidas complexas. Portanto, você pode precisar aprender mais sobre as funções e sintaxes do DAX para criar medidas que atendam às suas necessidades específicas. 
 
-https://academiapme-my.sharepoint.com/:w:/g/personal/renato_dio_me/EW76WjPAA8RGgC3i44ofFq4BBiWzM-CN5S312YwOQCIwBA?e=7A6KfG
