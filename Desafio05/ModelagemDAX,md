@@ -1,0 +1,25 @@
+PASSO PARA USO DE FORMULAS DAX NO POWERBI DESKTOP
+
+
+
+    Importação de Dados: Inicie importando seus dados para o Power BI. Você pode fazer isso através da guia "Home" e selecionando "Get Data".
+
+    Transformação de Dados: Use a janela "Power Query Editor" para limpar e transformar seus dados. Aqui, você pode remover colunas desnecessárias, alterar tipos de dados, renomear colunas, entre outras transformações.
+
+    Criação de Medidas: Se necessário, você pode criar medidas personalizadas usando DAX (Data Analysis Expressions). Para fazer isso, vá para a guia "Modeling" e selecione "New Measure". Aqui, você pode escrever suas expressões DAX.
+
+    Visualização de Dados: Agora você pode arrastar os campos para o painel de visualização para começar a construir seus gráficos e tabelas. Lembre-se de escolher o tipo de visualização que melhor representa seus dados.
+
+    Documentação: Para cada etapa do processo, certifique-se de definir no relatório o que foi feito. Isso pode ser feito usando a visualização de "Texto" para adicionar notas ao seu relatório.
+
+    Verificação: Por fim, verifique a aba "Entendendo o desafio" para mais informações e certifique-se de que você atendeu a todos os requisitos do desafio.
+
+Para criar uma medida em DAX no Power BI, siga estas etapas:
+
+    Selecione a tabela na qual você deseja criar a medida. Você pode fazer isso clicando na tabela desejada no painel "Fields" (Campos).
+
+    Vá para a guia "Modeling" (Modelagem) na faixa de opções e clique em "New Measure" (Nova Medida).
+
+    Agora você verá uma barra de fórmulas na parte superior. Aqui, você pode digitar sua expressão DAX. Uma medida DAX básica tem a seguinte estrutura: Nome da Medida = EXPRESSÃO. Por exemplo, se você quiser calcular a média de uma coluna chamada "Vendas", você pode escrever: Média de Vendas = AVERAGE('Tabela'['Vendas']).
+
+    Pressione Enter para criar a medida. A nova medida agora aparecerá na tabela selecionada no painel "Fields"
